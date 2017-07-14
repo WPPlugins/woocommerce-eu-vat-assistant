@@ -1,0 +1,41 @@
+[
+    {
+        "name": "codecasts/nusoap-php7",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/codecasts/nusoap-php7.git",
+            "reference": "f6022920c02d1e353652583472ab6051ef72444c"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/codecasts/nusoap-php7/zipball/f6022920c02d1e353652583472ab6051ef72444c",
+            "reference": "f6022920c02d1e353652583472ab6051ef72444c",
+            "shasum": ""
+        },
+        "time": "2016-10-21T23:40:42+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "classmap": [
+                "lib/"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "LGPLv2"
+        ],
+        "authors": [
+            {
+                "name": "Dietrich Ayala",
+                "homepage": "http://sourceforge.net/u/dietricha/profile/"
+            },
+            {
+                "name": "Scott Nichol",
+                "homepage": "http://sourceforge.net/u/snichol/profile/"
+            }
+        ],
+        "description": "NuSOAP re-packaged for Packagist/Composer"
+    }
+]
